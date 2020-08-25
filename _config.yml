@@ -1,11 +1,11 @@
 # Site settings
-title: hi
-email:
+title: Divya Portfolio
+email: dr448@cornell.edu  
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-github_username:
+github_username: divramakrishnan
 
 # Build settings
 markdown: kramdown
